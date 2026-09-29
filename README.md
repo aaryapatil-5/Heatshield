@@ -1,4 +1,4 @@
-# HeatShield AI
+# HeatShield 
 ### Extreme Heat Early Warning & Human Thermal Stress Intelligence
 **Smart India Hackathon 2026 — PS ID SIH26083 — Ministry of Earth Sciences (MoES) — Disaster Management**
 
